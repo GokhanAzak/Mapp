@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265063733947",
+    "project_id": "database-82abe",
+    "storage_bucket": "database-82abe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265063733947:android:b8cf1aecb11ae70e94a79e",
+        "android_client_info": {
+          "package_name": "com.example.mapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtF-u-hAkw98AawgXoFm8PO3D-BzBSqxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
